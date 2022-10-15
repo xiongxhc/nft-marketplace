@@ -24,37 +24,37 @@ const ActivitySidebar = () => {
           <h3 className='title'>Categories</h3>
           <ul>
             <li>
-              <a href='categories.html' target='_blank'>
+              <a href='categories.html' target='_blank' rel="noopener noreferrer">
                 Art
               </a>
             </li>
             <li>
-              <a href='categories.html' target='_blank'>
+              <a href='categories.html' target='_blank' rel="noopener noreferrer">
                 Virtual Worlds
               </a>
             </li>
             <li>
-              <a href='categories.html' target='_blank'>
+              <a href='categories.html' target='_blank' rel="noopener noreferrer">
                 Collectibles
               </a>
             </li>
             <li>
-              <a href='categories.html' target='_blank'>
+              <a href='categories.html' target='_blank' rel="noopener noreferrer">
                 Music
               </a>
             </li>
             <li>
-              <a href='categories.html' target='_blank'>
+              <a href='categories.html' target='_blank' rel="noopener noreferrer">
                 Games
               </a>
             </li>
             <li>
-              <a href='categories.html' target='_blank'>
+              <a href='categories.html' target='_blank' rel="noopener noreferrer">
                 Domains
               </a>
             </li>
             <li>
-              <a href='categories.html' target='_blank'>
+              <a href='categories.html' target='_blank' rel="noopener noreferrer">
                 Memes
               </a>
             </li>

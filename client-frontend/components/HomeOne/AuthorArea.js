@@ -50,17 +50,17 @@ const AuthorArea = () => {
                       Follow
                       <ul className='author-social'>
                         <li>
-                          <a href='https://www.facebook.com/' target='_blank'>
+                          <a href='https://www.facebook.com/' target='_blank' rel="noopener noreferrer">
                             <i className='ri-facebook-fill'></i>
                           </a>
                         </li>
                         <li>
-                          <a href='https://www.instagram.com/' target='_blank'>
+                          <a href='https://www.instagram.com/' target='_blank' rel="noopener noreferrer">
                             <i className='ri-instagram-fill'></i>
                           </a>
                         </li>
                         <li>
-                          <a href='https://twitter.com/' target='_blank'>
+                          <a href='https://twitter.com/' target='_blank' rel="noopener noreferrer">
                             <i className='ri-twitter-fill'></i>
                           </a>
                         </li>
@@ -99,17 +99,17 @@ const AuthorArea = () => {
                       Follow
                       <ul className='author-social'>
                         <li>
-                          <a href='https://www.facebook.com/' target='_blank'>
+                          <a href='https://www.facebook.com/' target='_blank' rel="noopener noreferrer">
                             <i className='ri-facebook-fill'></i>
                           </a>
                         </li>
                         <li>
-                          <a href='https://www.instagram.com/' target='_blank'>
+                          <a href='https://www.instagram.com/' target='_blank' rel="noopener noreferrer">
                             <i className='ri-instagram-fill'></i>
                           </a>
                         </li>
                         <li>
-                          <a href='https://twitter.com/' target='_blank'>
+                          <a href='https://twitter.com/' target='_blank' rel="noopener noreferrer">
                             <i className='ri-twitter-fill'></i>
                           </a>
                         </li>
@@ -147,17 +147,17 @@ const AuthorArea = () => {
                       Follow
                       <ul className='author-social'>
                         <li>
-                          <a href='https://www.facebook.com/' target='_blank'>
+                          <a href='https://www.facebook.com/' target='_blank' rel="noopener noreferrer">
                             <i className='ri-facebook-fill'></i>
                           </a>
                         </li>
                         <li>
-                          <a href='https://www.instagram.com/' target='_blank'>
+                          <a href='https://www.instagram.com/' target='_blank' rel="noopener noreferrer">
                             <i className='ri-instagram-fill'></i>
                           </a>
                         </li>
                         <li>
-                          <a href='https://twitter.com/' target='_blank'>
+                          <a href='https://twitter.com/' target='_blank' rel="noopener noreferrer">
                             <i className='ri-twitter-fill'></i>
                           </a>
                         </li>
@@ -195,17 +195,17 @@ const AuthorArea = () => {
                       Follow
                       <ul className='author-social'>
                         <li>
-                          <a href='https://www.facebook.com/' target='_blank'>
+                          <a href='https://www.facebook.com/' target='_blank' rel="noopener noreferrer">
                             <i className='ri-facebook-fill'></i>
                           </a>
                         </li>
                         <li>
-                          <a href='https://www.instagram.com/' target='_blank'>
+                          <a href='https://www.instagram.com/' target='_blank' rel="noopener noreferrer">
                             <i className='ri-instagram-fill'></i>
                           </a>
                         </li>
                         <li>
-                          <a href='https://twitter.com/' target='_blank'>
+                          <a href='https://twitter.com/' target='_blank' rel="noopener noreferrer">
                             <i className='ri-twitter-fill'></i>
                           </a>
                         </li>

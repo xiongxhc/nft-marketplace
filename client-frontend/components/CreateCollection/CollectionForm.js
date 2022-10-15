@@ -28,47 +28,47 @@ const CollectionForm = () => {
         <ul>
           <li>
             <Link href="/create-collection">
-              <a target="_blank">Art</a>
+              <a target="_blank" rel="noopener noreferrer">Art</a>
             </Link>
           </li>
           <li>
             <Link href="/create-collection">
-              <a target="_blank">Virtual Worlds</a>
+              <a target="_blank" rel="noopener noreferrer">Virtual Worlds</a>
             </Link>
           </li>
           <li>
             <Link href="/create-collection">
-              <a target="_blank">Trending Cards</a>
+              <a target="_blank" rel="noopener noreferrer">Trending Cards</a>
             </Link>
           </li>
           <li>
             <Link href="/create-collection">
-              <a target="_blank">Collectibles</a>
+              <a target="_blank" rel="noopener noreferrer">Collectibles</a>
             </Link>
           </li>
           <li>
             <Link href="/create-collection">
-              <a target="_blank">Music</a>
+              <a target="_blank" rel="noopener noreferrer">Music</a>
             </Link>
           </li>
           <li>
             <Link href="/create-collection">
-              <a target="_blank">Games</a>
+              <a target="_blank" rel="noopener noreferrer">Games</a>
             </Link>
           </li>
           <li>
             <Link href="/create-collection">
-              <a target="_blank">Domains</a>
+              <a target="_blank" rel="noopener noreferrer">Domains</a>
             </Link>
           </li>
           <li>
             <Link href="/create-collection">
-              <a target="_blank">Memes</a>
+              <a target="_blank" rel="noopener noreferrer">Memes</a>
             </Link>
           </li>
           <li>
             <Link href="/create-collection">
-              <a target="_blank">NFT Gifts</a>
+              <a target="_blank" rel="noopener noreferrer">NFT Gifts</a>
             </Link>
           </li>
         </ul>

@@ -507,6 +507,7 @@ const BlogThree = () => {
 											<a
 												href="categories.html"
 												target="_blank"
+												rel="noopener noreferrer"
 											>
 												Art
 											</a>
@@ -515,6 +516,7 @@ const BlogThree = () => {
 											<a
 												href="categories.html"
 												target="_blank"
+												rel="noopener noreferrer"
 											>
 												Virtual Worlds
 											</a>
@@ -523,6 +525,7 @@ const BlogThree = () => {
 											<a
 												href="categories.html"
 												target="_blank"
+												rel="noopener noreferrer"
 											>
 												Collectibles
 											</a>
@@ -531,6 +534,7 @@ const BlogThree = () => {
 											<a
 												href="categories.html"
 												target="_blank"
+												rel="noopener noreferrer"
 											>
 												Music
 											</a>
@@ -539,6 +543,7 @@ const BlogThree = () => {
 											<a
 												href="categories.html"
 												target="_blank"
+												rel="noopener noreferrer"
 											>
 												Games
 											</a>
@@ -547,6 +552,7 @@ const BlogThree = () => {
 											<a
 												href="categories.html"
 												target="_blank"
+												rel="noopener noreferrer"
 											>
 												Domains
 											</a>
@@ -555,6 +561,7 @@ const BlogThree = () => {
 											<a
 												href="categories.html"
 												target="_blank"
+												rel="noopener noreferrer"
 											>
 												Memes
 											</a>
@@ -566,32 +573,32 @@ const BlogThree = () => {
 									<h3 className="title">Cloud Tag</h3>
 									<ul className="side-bar-widget-tag">
 										<li>
-											<a href="tags.html" target="_blank">
+											<a href="tags.html" target="_blank" rel="noopener noreferrer">
 												Virtual World
 											</a>
 										</li>
 										<li>
-											<a href="tags.html" target="_blank">
+											<a href="tags.html" target="_blank" rel="noopener noreferrer">
 												Art
 											</a>
 										</li>
 										<li>
-											<a href="tags.html" target="_blank">
+											<a href="tags.html" target="_blank" rel="noopener noreferrer">
 												Vision
 											</a>
 										</li>
 										<li>
-											<a href="tags.html" target="_blank">
+											<a href="tags.html" target="_blank" rel="noopener noreferrer">
 												Music
 											</a>
 										</li>
 										<li>
-											<a href="tags.html" target="_blank">
+											<a href="tags.html" target="_blank" rel="noopener noreferrer">
 												Domains
 											</a>
 										</li>
 										<li>
-											<a href="tags.html" target="_blank">
+											<a href="tags.html" target="_blank" rel="noopener noreferrer">
 												Music
 											</a>
 										</li>

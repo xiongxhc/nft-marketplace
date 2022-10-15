@@ -417,6 +417,7 @@ const Categories = () => {
 											<a
 												href="categories.html"
 												target="_blank"
+												rel="noopener noreferrer"
 											>
 												Artwork
 											</a>
@@ -425,6 +426,7 @@ const Categories = () => {
 											<a
 												href="categories.html"
 												target="_blank"
+												rel="noopener noreferrer"
 											>
 												Virtual Worlds
 											</a>
@@ -433,6 +435,7 @@ const Categories = () => {
 											<a
 												href="categories.html"
 												target="_blank"
+												rel="noopener noreferrer"
 											>
 												Collectibles
 											</a>
@@ -441,6 +444,7 @@ const Categories = () => {
 											<a
 												href="categories.html"
 												target="_blank"
+												rel="noopener noreferrer"
 											>
 												Music
 											</a>
@@ -449,6 +453,7 @@ const Categories = () => {
 											<a
 												href="categories.html"
 												target="_blank"
+												rel="noopener noreferrer"
 											>
 												Games
 											</a>
@@ -457,6 +462,7 @@ const Categories = () => {
 											<a
 												href="categories.html"
 												target="_blank"
+												rel="noopener noreferrer"
 											>
 												Domains
 											</a>
@@ -465,6 +471,7 @@ const Categories = () => {
 											<a
 												href="categories.html"
 												target="_blank"
+												rel="noopener noreferrer"
 											>
 												Memes
 											</a>
