@@ -78,7 +78,6 @@ const AuthForm = () => {
 					<div className="form-group">
 						<label>Email</label>
 						<input
-							type="email"
 							className="form-control"
 							name="email"
 							type="email"
@@ -116,14 +115,14 @@ const AuthForm = () => {
 				<div className="login-with-account">
 					<ul>
 						<li>
-							<a href="https://www.facebook.com/" target="_blank">
+							<a href="https://www.facebook.com/" target="_blank" rel="noopener noreferrer">
 								<i className="ri-facebook-line"></i>
 								Login with Facebook
 							</a>
 						</li>
 
 						<li>
-							<a href="https://www.google.com/" target="_blank">
+							<a href="https://www.google.com/" target="_blank" rel="noopener noreferrer">
 								<i className="ri-google-line"></i>
 								Login with Google
 							</a>

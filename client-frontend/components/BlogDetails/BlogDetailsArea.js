@@ -17,22 +17,22 @@ const BlogDetailsArea = () => {
                   </p>
                   <ul className='social-link'>
                     <li>
-                      <a href='https://www.facebook.com/' target='_blank'>
+                      <a href='https://www.facebook.com/' target='_blank' rel="noopener noreferrer">
                         <i className='ri-facebook-fill'></i>
                       </a>
                     </li>
                     <li>
-                      <a href='https://www.instagram.com/' target='_blank'>
+                      <a href='https://www.instagram.com/' target='_blank' rel="noopener noreferrer">
                         <i className='ri-instagram-fill'></i>
                       </a>
                     </li>
                     <li>
-                      <a href='https://twitter.com/' target='_blank'>
+                      <a href='https://twitter.com/' target='_blank' rel="noopener noreferrer">
                         <i className='ri-twitter-fill'></i>
                       </a>
                     </li>
                     <li>
-                      <a href='https://www.linkedin.com/' target='_blank'>
+                      <a href='https://www.linkedin.com/' target='_blank' rel="noopener noreferrer">
                         <i className='ri-linkedin-fill'></i>
                       </a>
                     </li>
@@ -119,37 +119,37 @@ const BlogDetailsArea = () => {
                   <h3 className='title'>Categories</h3>
                   <ul>
                     <li>
-                      <a href='categories.html' target='_blank'>
+                      <a href='categories.html' target='_blank' rel="noopener noreferrer">
                         Art
                       </a>
                     </li>
                     <li>
-                      <a href='categories.html' target='_blank'>
+                      <a href='categories.html' target='_blank' rel="noopener noreferrer">
                         Virtual Worlds
                       </a>
                     </li>
                     <li>
-                      <a href='categories.html' target='_blank'>
+                      <a href='categories.html' target='_blank' rel="noopener noreferrer">
                         Collectibles
                       </a>
                     </li>
                     <li>
-                      <a href='categories.html' target='_blank'>
+                      <a href='categories.html' target='_blank' rel="noopener noreferrer">
                         Music
                       </a>
                     </li>
                     <li>
-                      <a href='categories.html' target='_blank'>
+                      <a href='categories.html' target='_blank' rel="noopener noreferrer">
                         Games
                       </a>
                     </li>
                     <li>
-                      <a href='categories.html' target='_blank'>
+                      <a href='categories.html' target='_blank' rel="noopener noreferrer">
                         Domains
                       </a>
                     </li>
                     <li>
-                      <a href='categories.html' target='_blank'>
+                      <a href='categories.html' target='_blank' rel="noopener noreferrer">
                         Memes
                       </a>
                     </li>
@@ -160,32 +160,32 @@ const BlogDetailsArea = () => {
                   <h3 className='title'>Cloud Tag</h3>
                   <ul className='side-bar-widget-tag'>
                     <li>
-                      <a href='tags.html' target='_blank'>
+                      <a href='tags.html' target='_blank' rel="noopener noreferrer">
                         Virtual World
                       </a>
                     </li>
                     <li>
-                      <a href='tags.html' target='_blank'>
+                      <a href='tags.html' target='_blank' rel="noopener noreferrer">
                         Art
                       </a>
                     </li>
                     <li>
-                      <a href='tags.html' target='_blank'>
+                      <a href='tags.html' target='_blank' rel="noopener noreferrer">
                         Vision
                       </a>
                     </li>
                     <li>
-                      <a href='tags.html' target='_blank'>
+                      <a href='tags.html' target='_blank' rel="noopener noreferrer">
                         Music
                       </a>
                     </li>
                     <li>
-                      <a href='tags.html' target='_blank'>
+                      <a href='tags.html' target='_blank' rel="noopener noreferrer">
                         Domains
                       </a>
                     </li>
                     <li>
-                      <a href='tags.html' target='_blank'>
+                      <a href='tags.html' target='_blank' rel="noopener noreferrer">
                         Music
                       </a>
                     </li>
@@ -311,7 +311,7 @@ const BlogDetailsArea = () => {
                         <ul className='social-icon'>
                           <li className='title'>Share Post</li>
                           <li>
-                            <a href='https://www.facebook.com/' target='_blank'>
+                            <a href='https://www.facebook.com/' target='_blank' rel="noopener noreferrer">
                               <i className='ri-facebook-fill'></i>
                             </a>
                           </li>
@@ -319,17 +319,18 @@ const BlogDetailsArea = () => {
                             <a
                               href='https://www.instagram.com/'
                               target='_blank'
+                              rel="noopener noreferrer"
                             >
                               <i className='ri-instagram-fill'></i>
                             </a>
                           </li>
                           <li>
-                            <a href='https://twitter.com/' target='_blank'>
+                            <a href='https://twitter.com/' target='_blank' rel="noopener noreferrer">
                               <i className='ri-twitter-fill'></i>
                             </a>
                           </li>
                           <li>
-                            <a href='https://www.linkedin.com/' target='_blank'>
+                            <a href='https://www.linkedin.com/' target='_blank' rel="noopener noreferrer">
                               <i className='ri-linkedin-fill'></i>
                             </a>
                           </li>

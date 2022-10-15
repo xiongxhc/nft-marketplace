@@ -53,7 +53,6 @@ const LoginForm = () => {
 						<div className="form-group">
 							<label>Email</label>
 							<input
-								type="text"
 								className="form-control"
 								name="identifier"
 								type="email"
@@ -109,6 +108,7 @@ const LoginForm = () => {
 								<a
 									href="https://www.facebook.com/"
 									target="_blank"
+									rel="noopener noreferrer"
 								>
 									<i className="ri-facebook-line"></i>
 									Login with Facebook
@@ -119,6 +119,7 @@ const LoginForm = () => {
 								<a
 									href="https://www.google.com/"
 									target="_blank"
+									rel="noopener noreferrer"
 								>
 									<i className="ri-google-line"></i>
 									Login with Google

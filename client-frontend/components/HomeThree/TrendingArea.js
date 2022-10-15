@@ -90,7 +90,7 @@ const TrendingArea = () => {
                   <div className='content'>
                     <h3>
                       <Link href='/item-details'>
-                        <a>Les Immortal's</a>
+                        <a>Les Immortals</a>
                       </Link>
                     </h3>
                     <Link href='/author-profile'>

@@ -38,6 +38,7 @@ const Copyright = () => {
 										<a
 											href="https://www.facebook.com/"
 											target="_blank"
+											rel="noopener noreferrer"
 										>
 											<i className="ri-facebook-fill"></i>
 										</a>
@@ -46,6 +47,7 @@ const Copyright = () => {
 										<a
 											href="https://www.instagram.com/"
 											target="_blank"
+											rel="noopener noreferrer"
 										>
 											<i className="ri-instagram-fill"></i>
 										</a>
@@ -54,6 +56,7 @@ const Copyright = () => {
 										<a
 											href="https://twitter.com/"
 											target="_blank"
+											rel="noopener noreferrer"
 										>
 											<i className="ri-twitter-fill"></i>
 										</a>
@@ -62,6 +65,7 @@ const Copyright = () => {
 										<a
 											href="https://www.linkedin.com/"
 											target="_blank"
+											rel="noopener noreferrer"
 										>
 											<i className="ri-linkedin-fill"></i>
 										</a>
